@@ -5,7 +5,8 @@ for more information on specificity in browsers refer:
 <li> https://www.w3.org/TR/CSS2/cascade.html#specificity
 <li> https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 
-This effort uses yoeman angular generator to set up the environment and uses Karma and PhatomJS plugins to perform the test
+This effort uses yoeman angular generator to set up the environment and uses Karma and PhatomJS plugins to perform the test. For brief intro to the test setup <li> https://blog.sergiocruz.me/angularjs-how-to-generate-code-coverage-for-yeoman-scaffolded-apps/
 
 
 The alternative would be to use selenium instead of the headless browser PhantonJS.
+
